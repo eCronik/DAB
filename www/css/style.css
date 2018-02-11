@@ -107,9 +107,14 @@ input[type=text] {
 }
 
 .login {
-background-color: red;
-height: 25%;
-width: 25%;
+background-color: rgb(224,17,95);
+color: #fff;
+height: 7%;
+width: 30%;
+display: block;
+margin-left: auto;
+margin-right: auto;
+margin-top: 50px;
 }
 
 input[type=password] {
